@@ -1,6 +1,6 @@
 # Olá, eu sou o Diego Carvalho
 
-Mestrado em Gestão Empresarial pelo Instituto Superior de Contabilidade e Administração de Coimbra
+Graduado em Administração e Mestrado em Gestão Empresarial pelo Instituto Superior de Contabilidade e Administração de Coimbra.
 Exploro soluções que unem gestão, automação, interfaces interativas e análise de dados.  
 Atualmente, desenvolvendo projetos com Python, MediaPipe, TouchDesigner e automações com IA.
 
