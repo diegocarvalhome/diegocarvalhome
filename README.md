@@ -35,6 +35,3 @@ Atualmente, focado em soluções que unem automação, análise de dados e inter
 
 ## Vamos colaborar?
 
-Estou aberto a colaborações, ideias e feedbacks!  
-Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/diego-carvalho-me/) ou [Instagram](https://www.instagram.com/diegocarvalho.me).
-
